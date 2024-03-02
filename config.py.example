@@ -1,5 +1,8 @@
 api_id: str = ''
 api_hash: str = ''
 
-text: str = ''
-delay: int = 0
+text: str = 'Hello'
+delay: int = 10
+
+token: str = ''
+user_id: int = 0
