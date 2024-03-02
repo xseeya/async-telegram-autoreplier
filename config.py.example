@@ -1,0 +1,5 @@
+api_id: str = ''
+api_hash: str = ''
+
+text: str = ''
+delay: int = 0
