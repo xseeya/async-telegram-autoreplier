@@ -1,7 +1,6 @@
 from pyrogram import Client, filters
 
 import datetime
-import time
 
 import config as cfg
 
