@@ -16,9 +16,3 @@ async def hello(client, message) -> None:
     if datetime.datetime.now().timestamp() - info.date.timestamp() > cfg.delay:
         await message.reply(f"{cfg.text}")
 
-
-
-
-
-    
-

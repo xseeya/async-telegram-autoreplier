@@ -12,8 +12,6 @@ nest_asyncio.apply()
 router = Router()
 
 state = {'status': 0}
-# state['status'] = 0
-
 
 kb_settings = [[
     KeyboardButton(text='Выключить'),

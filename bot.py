@@ -5,7 +5,6 @@ import asyncio
 
 import user
 import config as cfg
-from run import app
    
     
 async def main():
